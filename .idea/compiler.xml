@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="game-hello-world" />
+        <module name="game-sousse-pong" />
+        <module name="game-sousse-craft" />
+        <module name="game-sousse-kombla" />
+        <module name="game-sousse-tanks" />
+        <module name="game-sousse-palace" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
